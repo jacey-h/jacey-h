@@ -8,8 +8,6 @@
  
  
   
-- 💻 I’m currently participating SEA:ME pilot program in 42 Wolfsburg
-
 - 📚 I have big interest in learning Embeded System SW, Yocto Project
 
 - 🧳 I love traveling!!!
