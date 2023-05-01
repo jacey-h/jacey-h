@@ -8,7 +8,9 @@
  
  
   
-- 📚 I have big interest in learning Embeded System SW, Yocto Project
+- 📚 I have big interest in learning Embedded System SW, Yocto Project
+
+    I have experience in working on a project to create a Linux-based OS using Yocto. You can check [here](https://github.com/jacey-h/Team-Pilot/tree/main/Project-3) if you are interested.   
 
 - 🧳 I love traveling!!!
 
