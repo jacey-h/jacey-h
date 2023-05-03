@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/simulink-f17b39?style=for-the-badge&log=appveyor&logo=simulink&logoColor=white"/>
 
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacey-h&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
